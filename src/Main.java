@@ -6,7 +6,7 @@ public class Main {
         solar.sun="1";
         Earth earth=new Earth();
         earth.color="red";
-        earth.temperature=4352;
+        earth.temperature="4352";
         earth.heat="45";
 
 
